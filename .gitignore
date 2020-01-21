@@ -3,5 +3,4 @@ CMakeFiles/
 cmake_install.cmake
 Makefile
 test
-lib/
-c-echo
+c-echo-count
